@@ -67,14 +67,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 6928703862631541093}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0e5992d6fe2dca4f85cb97f19b29197, type: 3}
+  m_Script: {fileID: 11500000, guid: 0f37552f0c4a64446b802e86aeb6ec33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SceneToLoad: MainMenu
   TextFileName: TextToDisplay
-  BackgroundImg: {fileID: 21300000, guid: 121ceeb5c84b23c4995f8c47560abf6d, type: 3}
-  GameLogoImg: {fileID: 21300000, guid: 559046470ff018942b49aa48306c6b0b, type: 3}
-  CorporationImg: {fileID: 21300000, guid: 07af86410d5e1f040954144acfba05bf, type: 3}
+  BackgroundImg: {fileID: 21300000, guid: 6fa0fa248bc91cf4588ce9c932bf4834, type: 3}
+  GameLogoImg: {fileID: 21300000, guid: 24882d33bcc093d458ba30c3eda8227f, type: 3}
+  CorporationImg: {fileID: 21300000, guid: 503cebb1d34e850428cac18cd90847ba, type: 3}
 --- !u!114 &44943512
 MonoBehaviour:
   m_ObjectHideFlags: 0
