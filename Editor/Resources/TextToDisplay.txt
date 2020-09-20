@@ -1,0 +1,73 @@
+<SIZE=150>CATALYST
+</SIZE>
+<SIZE=70>Merci d'avoir jouer - Louis Pakel</SIZE>
+
+<SIZE=110>- DEVELOPPEMENT -</SIZE>
+
+<SIZE=60>GAMEPLAY PROGRAMMER 
+<I>Louis Pakel</I></SIZE>
+
+<SIZE=60>GAME DESIGN 
+<I>Louis Pakel</I></SIZE>
+
+<SIZE=60>TOOLS DEVELOPER
+<I>Louis Pakel</I></SIZE>
+
+<SIZE=110>- GRAPHICS -</SIZE>
+
+<SIZE=60>2D CHARACTER DESIGN 
+<I>Axel Barriol</I>
+<I>Aurelien Leridon</I>
+<I>Benoit Bellanger</I></SIZE>
+
+<SIZE=60>UI ARTIST  
+<I>Elyette Ilas</I></SIZE>
+
+<SIZE=60>2D ANIMATION ARTIST
+<I>Mathieu Gomez</I></SIZE>
+
+<SIZE=60>PROPS
+<I>BRACKEYS  TEAM</I></SIZE>
+
+<SIZE=60>TIPS
+<I>TUTOUNITYFR</I></SIZE>
+
+
+
+<SIZE=110>- AUDIO -</SIZE>
+
+<SIZE=60>SOUND DESIGNER
+<I>Katelyn Isaacson</I></SIZE>
+
+<SIZE=60>VOICE ACTORS
+<I>Katelyn Isaacson</I>
+<I>Louis Pakel</I>
+<I>Sarah Vadet</I>
+<I>Serguey Novoseltsev</I>
+<I>Florian Groulez</I>
+<I>Aurelien Leridon</I>
+<I>Ludovic Araujo</I>
+<I>Paul Pakel</I>
+<I>Said Boudjema</I>
+<I>Sandra Acquaro</I>
+<I>Elisa Paris</I>
+<I>Kais Sahli</I>
+<I>Marvin Bingue</I>
+</SIZE>
+
+<SIZE=110>- FONT -</SIZE>
+
+<SIZE=60>ASGALT
+<I>BY   Rémi Lagast</I></SIZE>
+
+
+
+<SIZE=110>- SPECIAL  THANKS -</SIZE>
+
+<SIZE=60>FOUNDERS
+
+<I></I></SIZE>
+
+<SIZE=60><I>ARCHA STUDIO</I>
+<I>Levez-vous et réalisez vos reves</I>
+<I>ou quelqu'un d'autre vous payera pour réalisé les siens.</I></SIZE>
