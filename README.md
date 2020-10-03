@@ -21,53 +21,65 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## What is Arch Net
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Arch Net is a free list of simple module to help people to develop a video game.
+All module are free and open source ! feel free to help or to ask some new module by contacting "archnetmodule@gmail.com"
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Every module are not perfect, develop for a basic usage, feel free to customize or update them.
+
+Why use Arch Net module ?
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Your time should be focused on creating something amazing.
+* Don't waste time ! the module are here to help you !
+* You are not a developer ? You can use it too !
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course, this is not a pro service, of course there will be bug or error, shit happen, please contact us if you have some issue with one of our module !
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The best reward for us is to see our module used in video game ! :) 
+
+That all folks !
 
 
 <!-- Usage -->
 ## usage
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This module is a simple credit scene for a video game.
 
-### Prerequisites
+Get the github HTTPS project url and load it in Unity Package Manager windows
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+in Unity : Windows -> Package Manager -> + -> Add package from git url
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get the github HTTPS project url and load it in Unity Package Manager windows
+in Unity : Windows -> Package Manager -> + -> Add package from git url
+
 2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
+3. Create a new scene and call it "Credit" fro example
 
+4. Drag and drop Prefab "ModuleCredit"  from the package
+
+5. Set Script Component "Credit" values
+
+[CUSTOM SETUP]
+
+- Next Scene : write the next scene after the credit end
+- Text File : Drag your Txt File of your Credit ( There is an example in Resources Called "TextToDisplay" )
+
+[CUSTOM IMAGES]
+
+- Background Img : Drag your main Background sprite
+- Game Logo Img : Drag your Game logo sprite
+- Corporation Img : Drag your entreprise / corporation sprite
+
+[ANIMATION]
+
+- Animation Duration : Duration time of the credit before load the next scene ( 60 sec by default)
+- Animation Clip : Animation Clip (use "credit" animation clip in Resources if you don't have any)
+- Animation Speed : Speed of the credit animation ( 2 by default)
 
 <!-- CONTACT -->
 ## Contact
