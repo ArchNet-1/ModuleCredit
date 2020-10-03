@@ -18,11 +18,11 @@
         #endregion
 
         #region GameObjects
-
-        public const string GB_Text = "TextToDisplay";
-        public const string GB_BackGround = "BackGroundImg";
-        public const string GB_Content = "Content";
-        public const string GB_CustomImg = "CustomImg";
+        public const string ContentView = "ContentView";
+        public const string Credit_Content_Txt = "Credit_Content_Txt";
+        public const string Global_Bkg_Img = "Global_Bkg_Img";
+       
+        public const string GB_CustomImg = "Prefabs/CustomImg";
 
         #endregion
     }

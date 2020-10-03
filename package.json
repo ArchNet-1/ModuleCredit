@@ -1,8 +1,8 @@
 {
   "name": "com.archnet.module.credit",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "displayName": "Arch Net Module Credit",
-  "description": "This module add a custom credit scene for your game.\n Open your credit scene and drag and drop Credit prefab.\n Open 'Content' and Drag your custom image and your custom credit text.",
+  "description": "This module add a simple custom credit prefab for your game.",
   "unity": "2020.1",
   "unityRelease": "0b5",
   "keywords": [
