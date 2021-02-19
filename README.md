@@ -23,21 +23,21 @@
 <!-- ABOUT THE PROJECT -->
 ## What is Arch Net
 
-Arch Net is a free list of simple module to help people to develop a video game.
-All module are free and open source ! feel free to help or to ask some new module by contacting "archnetmodule@gmail.com"
+Arch Net is a free archive plateform who regroup multipe modules, extensions, library, desgin patterns, services to help people to develop a video game.
+All archives are free and open source ! feel free to help or to ask some new archive by contacting "archnetmodule@gmail.com"
 
-Every module are not perfect, develop for a basic usage, feel free to customize or update them.
+Every archive are not perfect, develop for a basic usage, feel free to customize or update them.
 
 Why use Arch Net module ?
 
 Here's why:
 * Your time should be focused on creating something amazing.
-* Don't waste time ! the module are here to help you !
+* Don't waste time ! Archives are here to help you !
 * You are not a developer ? You can use it too !
 
-Of course, this is not a pro service, of course there will be bug or error, shit happen, please contact us if you have some issue with one of our module !
+Of course, this is not a pro service, of course there will be bug or error, shit happen, please contact us if you have some issue with one of our archive !
 
-The best reward for us is to see our module used in video game ! :) 
+The best reward for us is to see our archive used in your project ! :) 
 
 That all folks !
 
